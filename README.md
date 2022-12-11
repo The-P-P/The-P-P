@@ -1,7 +1,18 @@
+##                       ಠ_ಠ HELLO! ಠ_ಠ
+
+
+🏡 Eu sou de São Luís, Maranhão, Brasil.
+
+📒 Atualmente, estou me formando na Engenharia de Software.
+
+👨🏻‍💻 Objetivos de 2023: Conseguir um emprego como desenvolvedor júnior.
+
+##
+
 <div align="center">
   <a href="https://github.com/The-P-P">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-P-P&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-P-P&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-P-P&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-P-P&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,4 +30,6 @@
   
   ![Snake animation](https://github.com/The-P-P/The-P-P/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+ ##
 
