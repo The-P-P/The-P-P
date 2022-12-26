@@ -3,7 +3,7 @@
 
 🏡 Eu sou de São Luís, Maranhão, Brasil.
 
-📒 Atualmente, estou me formando na Engenharia de Software.
+📒 Atualmente, estou me formando em Engenharia de Software.
 
 👨🏻‍💻 Objetivos de 2023: Conseguir um emprego como desenvolvedor júnior.
 
