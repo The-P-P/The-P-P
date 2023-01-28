@@ -5,7 +5,7 @@
 
 📒 Atualmente, estou me formando em Engenharia de Software.
 
-👨🏻‍💻 Objetivos de 2023: Conseguir um emprego como desenvolvedor júnior.
+👨🏻‍💻 Objetivos de 2023: Conseguir um emprego que envolva ciência de dados.
 
 ##
 
