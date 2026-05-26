@@ -17,10 +17,6 @@
 Sou de **São Luís, Maranhão, Brasil** e estou me formando em **Engenharia de Software**.  
 Gosto de transformar ideias em código e aprender coisas novas na prática.
 
-- 🔭 Foco atual: desenvolvimento web e boas práticas de software  
-- 🌱 Aprendendo: aprofundar em projetos reais e colaboração em equipe  
-- 💬 Pode me chamar para trocar ideia sobre dev, projetos ou estudos  
-
 <br/>
 
 <!-- Tech Stack -->
@@ -37,11 +33,6 @@ Gosto de transformar ideias em código e aprender coisas novas na prática.
 
 <!-- Stats -->
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=The-P-P&show_icons=true&theme=ocean_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-P-P&layout=compact&langs_count=7&theme=ocean_dark&hide_border=true" alt="Top Languages" />
-</div>
 
 <br/>
 
